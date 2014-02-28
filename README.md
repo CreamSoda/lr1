@@ -7,7 +7,7 @@
 
 ## Инструкции:
 
-1. Чтобы выгрузить проект: `git clone https://github.com/CreamSoda/labs.git`
+1. Чтобы выгрузить проект: `git clone https://github.com/CreamSoda/lr1.git`
 2. Открыть файл lr1.html
 3. Рисовать. 
 
